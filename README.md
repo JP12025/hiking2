@@ -12,10 +12,6 @@ You have to implement your solution in a file named `hicking2.py` which takes on
 
 Your program should print the number of distinct hicking trails asked in **Part 2** of the problem. Like in the examples given below.
 
-# When to Do it
-
-By Sunday, february 8, 2025 at 11:59 PM
-
 # How to Test
 
 Test your script with command `./check hicking2.py` or `pytest test_hichking2.py`
