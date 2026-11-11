@@ -9,10 +9,7 @@ The problem is protected by Copyright, in consequence we cannot copy it here and
 
 In a file called `hiking2.py`, write a Python program that reads the topographic map (the puzzle input) from a file whose name is given on the command line, then prints the answer of **Part 2**: the sum of the ratings of all the trailheads of the map.
 
-```bash
-$ python hiking2.py large_map.txt
-82
-```
+![Demo of hiking2.py](hiking2.gif)
 
 Your program should print only this number, nothing else.
 
